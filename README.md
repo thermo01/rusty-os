@@ -1,5 +1,5 @@
 #### RustyOS ####
 
-This is my first OS in Rust\n
+This is my first OS in Rust\
 Check out the documentation!
 
